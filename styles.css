@@ -13,6 +13,7 @@ body{
     padding-bottom: 40px;
     text-align: center;
     margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
 }
 
 .qr-code{
@@ -45,5 +46,5 @@ body{
 }
 
 .attribution{
-    margin-top: 20px;
+    margin-top: 50px;
 }
